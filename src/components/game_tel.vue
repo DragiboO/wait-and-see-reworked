@@ -684,4 +684,23 @@ export default {
     .game_none {
         display: none;
     }
+
+    @media screen and (max-height: 720px) {
+        .card_phone_img {
+            width: 75%;
+        }
+    }
+
+    @media screen and (max-height: 670px) {
+        .card_phone_img {
+            width: 65%;
+        }
+    }
+
+    @media screen and (max-height: 630px) {
+        .card_phone_img {
+            width: 55%;
+        }
+    }
+
 </style>
