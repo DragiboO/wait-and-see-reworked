@@ -38,7 +38,7 @@ import game_tel from './components/game_tel.vue'
   /* @import url(https://fr.allfont.net/allfont.css?fonts=anime-ace-20-bb); */
 
   * {
-    font-family: 'Anime Ace 2.0 BB', arial;
+    font-family: 'Patrick Hand', cursive;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
