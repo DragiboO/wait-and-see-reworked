@@ -66,357 +66,357 @@ export default {
         game_phone_card_display (number) {
             if (number == 0 || number == 1 || number == 2) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[0]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_action.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 2 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_action.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 2 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[0]
             }
             if (number == 3 || number == 4) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[1]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 3 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 3 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[1]
             }
             if (number == 5) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[2]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 4 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 4 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[2]
             }
             if (number == 6 || number == 7) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[3]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 5 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 5 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[3]
             }
             if (number == 8 || number == 9) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[4]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 6 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 6 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[4]
             }
             if (number == 10) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[5]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 7 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 7 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[5]
             }
             if (number == 11 || number == 12 || number == 13) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[6]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 8 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 8 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[6]
             }
             if (number == 14) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[7]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 9 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 9 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[7]
             }
             if (number == 15) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[8]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 10 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 10 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[8]
             }
             if (number == 16) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[9]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 11 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 11 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[9]
             }
             if (number == 17 || number == 18) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[10]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 12 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 12 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[10]
             }
             if (number == 19 || number == 20) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[11]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 13 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 13 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[11]
             }
             if (number == 21 || number == 22) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[12]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 14 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 14 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[12]
             }
             if (number == 23) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[13]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 15 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 15 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[13]
             }
             if (number == 24 || number == 25 || number == 26) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[14]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 16 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 16 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[14]
             }
             if (number == 27 || number ==28) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[15]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 17 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 17 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[15]
             }
             if (number == 29) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[16]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 18 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 18 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[16]
             }
             if (number == 30 || number == 31) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[17]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 19 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 19 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[17]
             }
             if (number == 32) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[18]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 20 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 20 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[18]
             }
             if (number == 33) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[19]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 21 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 21 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[19]
             }
             if (number == 34 || number == 35) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[20]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 22 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 22 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[20]
             }
             if (number == 36) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[21]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 23 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 23 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[21]
             }
             if (number == 37) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[22]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 24 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 24 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[22]
             }
             if (number == 38 || number == 39) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[23]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 25 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 25 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[23]
             }
             if (number == 40 || number == 41) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[24]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 26 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 26 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[24]
             }
             if (number == 42) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[25]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 27 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 27 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[25]
             }
             if (number == 43 || number == 44 || number == 45) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[26]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 28 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 28 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[26]
             }
             if (number == 46) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[27]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 29 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 29 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[27]
             }
             if (number == 47) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[28]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 30 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 30 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[28]
             }
             if (number == 48) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[29]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 31 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 31 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[29]
             }
             if (number == 49) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[30]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 32 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 32 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[30]
             }
             if (number == 50 || number == 51) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[31]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 33 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 33 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[31]
             }
             if (number == 52 || number == 53) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[32]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 34 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 34 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[32]
             }
             if (number == 54 || number == 55) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[33]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 35 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 35 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[33]
             }
             if (number == 56 || number == 57) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[34]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 36 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 36 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[34]
             }
             if (number == 58 || number == 59 || number == 60) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[35]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 37 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 37 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[35]
             }
             if (number == 61 || number == 62 || number == 63) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[36]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 38 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 38 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[36]
             }
             if (number == 64 || number == 65 || number == 66 || number == 67) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[37]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 39 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 39 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[37]
             }
             if (number == 68 || number == 69 || number == 70 || number == 71 || number == 72) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[38]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 40 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 40 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[38]
             }
             if (number == 73) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[39]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 41 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 41 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[39]
             }
             if (number == 74) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[40]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 42 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 42 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[40]
             }
             if (number == 75) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[41]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 43 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 43 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[41]
             }
             if (number == 76 || number == 77 || number == 78 || number == 79) {
                 this.card_phone_was += 1
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[42]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 44 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 44 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[42]
             }
             if (number == 80) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[43]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 45 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 45 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[43]
             }
             if (number == 81) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[44]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 46 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 46 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[44]
             }
             if (number == 82 || number == 83 || number == 84) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[45]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 47 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 47 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[45]
             }
             if (number == 85 || number == 86 || number == 87) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[46]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 48 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 48 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[46]
             }
             if (number == 88) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[47]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 49 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 49 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[47]
             }
             if (number == 89 || number == 90) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[48]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 50 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 50 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[48]
             }
             if (number == 91) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[49]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 51 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 51 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[49]
             }
             if (number == 92) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[50]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 52 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 52 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[50]
             }
             if (number == 93) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[51]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 53 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 53 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[51]
             }
             if (number == 94 || number == 95 || number == 96) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[52]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 54 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 54 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[52]
             }
             if (number == 97 || number == 98) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[53]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 55 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 55 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[53]
             }
             if (number == 99 || number == 100 || number == 101) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[54]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 56 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 56 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[54]
             }
             if (number == 102 || number == 103) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[55]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 57 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 57 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[55]
             }
             if (number == 104) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[56]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 58 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 58 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[56]
             }
             if (number == 105 || number == 106) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[57]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 59 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 59 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[57]
             }
             if (number == 107) {
                 document.querySelector(".card_phone_title").innerHTML = this.titre_phone[58]
-                document.querySelector(".card_phone_title_icon").src = "public/logo/logo_defi.png"
-                document.querySelector(".card_phone_img").src = "public/rond/" + 60 + ".png"
+                document.querySelector(".card_phone_title_icon").src = "/logo/logo_defi.png"
+                document.querySelector(".card_phone_img").src = "/rond/" + 60 + ".png"
                 document.querySelector(".card_phone_txt").innerHTML = this.challenge_phone[58]
             }
         },
