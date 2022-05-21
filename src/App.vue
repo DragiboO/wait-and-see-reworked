@@ -35,7 +35,7 @@ import game_tel from './components/game_tel.vue'
 
 <style>
 
-  @import url(https://fr.allfont.net/allfont.css?fonts=anime-ace-20-bb);
+  /* @import url(https://fr.allfont.net/allfont.css?fonts=anime-ace-20-bb); */
 
   * {
     font-family: 'Anime Ace 2.0 BB', arial;
